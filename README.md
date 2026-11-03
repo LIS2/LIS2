@@ -1,6 +1,3 @@
-<div id="text" align="center">
-
-
 <table width=“XXX” height=“400”><tr><td>
 mio⠀+⠀tama⠀(s)he/they⠀17⠀ <br>
   i like 🍔 and persona <br>
